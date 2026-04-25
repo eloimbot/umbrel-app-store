@@ -1,8 +1,8 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
+id: eloimbot-scrypted
+name: Scrypted
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://www.google.com/imgres?q=Scrypted%20logo&imgurl=https%3A%2F%2Fwww.scrypted.app%2Fimg%2Flogo.png&imgrefurl=https%3A%2F%2Fwww.scrypted.app%2F&docid=6nOqGTwsiZT00M&tbnid=uqsPIu02HgxHsM&vet=12ahUKEwiVlura-4iUAxWpOfsDHbweFVcQnPAOegQIEhAB..i&w=512&h=512&hcb=2&ved=2ahUKEwiVlura-4iUAxWpOfsDHbweFVcQnPAOegQIEhAB
 category: Development
 version: "1.0.0"
 port: 4000
